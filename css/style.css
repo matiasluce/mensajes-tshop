@@ -1,0 +1,17 @@
+body{
+    background-color: #1B2430;
+}
+
+.title{
+    font-family: 'Josefin Sans', sans-serif;
+    color: white;
+}
+
+.mensajes-container{
+    display: flex;
+    flex-direction: row-reverse;
+    flex-wrap:wrap-reverse;
+    gap: 20px;
+    justify-content: center;
+    align-items: center;
+}
